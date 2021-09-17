@@ -1,0 +1,3 @@
+The Monkey Robot was a 2nd semester University project with the main goal of giving us a chance to learn more about operating multiple actuators, general design as well as making simulations in NX19. The robot's main function was mimicking the brachiation movement similarily to a primate. My role within the team was mainly around mechanical design and the simulation, however I was also the designated project manager. The robot was a success and the group received full credit for its work.
+
+In this folder there are two videos from the simulation and a folder with all NX files used in the project.
