@@ -1,0 +1,1 @@
+These are some example technical drawings I made during the 1st semester.
